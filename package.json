@@ -1,7 +1,7 @@
 {
   "name": "flow-abs",
   "version": "0.0.0",
-  "description": "",
+  "description": "Transform stream factory to map numeric data stream values to their absolute values.",
   "author": {
     "name": "Athan Reines",
     "email": "athan@nodeprime.com"

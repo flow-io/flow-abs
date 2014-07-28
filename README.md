@@ -1,7 +1,7 @@
 flow-abs
 ========
 
-
+Transform stream factory to map numeric data stream values to their absolute values.
 
 
 ## Installation
